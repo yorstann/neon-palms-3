@@ -1,3 +1,10 @@
+// NEON PALMS — an original open-world crime game in the browser (make.fun bounty gta6-01,
+// round 3): a top-down Palmera Bay of six districts with traffic, pedestrians, carjacking,
+// a witnessed-crime wanted system, PBPD roadblocks and Air One's searchlight, Calle Kings
+// gunfights, a six-job story for fixer Mara Voss, taxi fares, hidden packages and a synth
+// car radio — vanilla JS on canvas, zero assets, all sound synthesised. The game lives in
+// game/ beside this file; the vendored packaging below hands it in unchanged.
+//
 // A working gta6-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
